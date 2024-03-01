@@ -1,0 +1,2 @@
+debug: true
+jetty.dosFilter.maxRequestMs: 1000
